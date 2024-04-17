@@ -48,7 +48,7 @@
 
 #menu .menu-button > a:hover {
   color:#000!important;
-  background-color:#FFFFFF!important;
+  background-color:white!important;
   text-decoration: none;
 }
 
@@ -60,7 +60,7 @@
 
 
 #top-banner, #menu {
-  border-color:#616161;
+  border-color:black;
 }
 
 
